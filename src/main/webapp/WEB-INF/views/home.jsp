@@ -5,6 +5,9 @@
 	<title>Home</title>
 </head>
 <body>
+
+<nav></nav>
+
 <h1>
 	안녕하세요 최초 프로젝트 입니다.  
 </h1>
